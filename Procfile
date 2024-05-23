@@ -1,0 +1,1 @@
+web: gunicorn hotelsystem.wsgi --reload
